@@ -1,13 +1,16 @@
+
 #container{
 	background-color:#deab8a ;
 	min-height: 800px;
 	background-size: 100%;
+	padding-top: 20px;
 
 }
 
 #image{
 	width: 100%;
 	margin-left: 25%;
+	margin-top: 1%;
 }
 
 h1{
@@ -22,6 +25,8 @@ ul{
 }
 p{
 	margin-bottom: 5%;
+	text-align: center;
+	font-size: 15px;
 }
 
 #pd{
